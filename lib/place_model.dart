@@ -111,7 +111,7 @@ List places = [
     distance: 60,
     // days: 12,
     desc:
-        "This 590 foot high fort spread across 692 acres is the largest fort in India and a World Heritage Site.",
+        "Batu Flower Garden is a mesmerizing haven of natural beauty. Nestled in the heart of Batu, Indonesia, this enchanting garden boasts a stunning array of vibrant flowers in full bloom. As you wander through its lush pathways, you'll be captivated by the kaleidoscope of colors and fragrant blossoms that dance in the gentle breeze. A visit to Batu Flower Garden is an immersive experience in nature's exquisite artistry, where serenity and serendipity unite.",
     category: 'Theme Park',
     rate: '4.4',
   ),
